@@ -14,4 +14,5 @@ obj1=Solution()
 a=int(input("enter the variable a:"))
 b=int(input("enter the variable b:"))
 obj1.adding(a,b)  
-# That was for today. Today I used git checkout main , git stash, git stash apply,git cherry-pick d32e856 . Because yesterday I deatched the head using git checkout thus issue arrised  
+# That was for today. Today I used git checkout main , git stash, git stash apply,git cherry-pick d32e856 . Because yesterday I deatched the head using git checkout thus issue arrised. Also used (git remote -v) to check the correct url of the repo.   
+
