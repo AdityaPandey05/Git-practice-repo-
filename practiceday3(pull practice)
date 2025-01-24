@@ -1,0 +1,6 @@
+#Day 3 of practicing git
+# A short program of python
+# Write a program to print numbers from 1 - 10 with each number printed in a separate line.
+# Solution:----
+for i in range(1,11):
+	print (i)
