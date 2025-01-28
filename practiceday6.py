@@ -20,3 +20,4 @@ s1.name="Aditya Pandey"
 s1.marks=(99,97,98)
 s1.get_avg()  
               
+# pushed on the Day5 branch and due to (git restore) I lost this comment thus again writing.Now two days only push to this branch and third day would merge in the main. Also to check the current branch name we use (git branch --show-current).                 
